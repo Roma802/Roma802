@@ -8,9 +8,9 @@ A Python Backend Developer is a skilled software engineer responsible for creati
 
 - **Server-Side Development**: Write efficient, reusable, and maintainable Python code for the backend of web applications.
 
-- **API Development**: Create RESTful or GraphQL APIs to enable communication between the frontend and backend systems.
+- **API Development**: Create RESTful to enable communication between the frontend and backend systems.
 
-- **Database Management**: Design and optimize database schemas, write SQL queries, and interact with databases using tools like SQLAlchemy or Django ORM.
+- **Database Management**: Design and optimize database schemas, write SQL queries, and interact with databases using tools like Django ORM.
 
 - **Authentication and Authorization**: Implement user authentication and authorization mechanisms to secure web applications.
 
@@ -28,8 +28,6 @@ A Python Backend Developer is a skilled software engineer responsible for creati
 
 - **Scalability**: Design and develop backend systems that can scale to handle increased traffic and user loads.
 
-- **Deployment**: Deploy and manage applications on cloud platforms like AWS, Azure, or Google Cloud.
-
 ## Skills
 
 - Proficiency in Python programming language.
@@ -38,7 +36,6 @@ A Python Backend Developer is a skilled software engineer responsible for creati
 - Familiarity with RESTful API design and development.
 - Understanding of frontend technologies (HTML, CSS, JavaScript) to facilitate collaboration with frontend developers.
 - Version control using Git.
-- Knowledge of containerization and orchestration tools like Docker and Kubernetes is a plus.
 - Problem-solving skills and the ability to troubleshoot complex issues.
 - Security awareness and knowledge of best practices for web application security.
 
